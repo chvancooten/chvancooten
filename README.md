@@ -1,6 +1,6 @@
 ## Cas van Cooten (@chvancooten)
 
-Hey 👋! My name is Cas, I'm a Red Teamer based in the Netherlands. In my free time, I like to build offensive security tooling (OST), specifically in the Nim programming language. In the interest of transparency and to support the community in becoming better at offense and defense alike, I also like to publish my projects publicly as open-source software in a responsible manner (a much-debated point, I know).
+Hey 👋! My name is Cas, I'm a Red Teamer based in the Netherlands. In my free time, I like to build offensive security tooling (OST), specifically in modern programming languages such as Rust, Go, or Nim. In the interest of transparency and to support the community in becoming better at offense and defense alike, I also like to publish my projects publicly as open-source software in a responsible manner (a much-debated point, I know).
 
 Feel free to reach out if you have any questions about offensive development, red teaming, or other security topics! Always happy to chat.
 
