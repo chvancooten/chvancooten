@@ -9,8 +9,7 @@ Building offensive security tools in **Go** • **Python** • **Rust** • **Ni
 <a href="https://casvancooten.com"><img src="https://img.shields.io/badge/🌐_Website-casvancooten.com-success?style=for-the-badge" alt="Website" /></a>
 <a href="https://twitter.com/chvancooten"><img src="https://img.shields.io/badge/Twitter-@chvancooten-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://github.com/sponsors/chvancooten"><img src="https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" /></a>
-![Chvancooten's stars](https://img.shields.io/github/stars/chvancooten)
-
+<a href="https://github.com/chvancooten?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/github/stars/chvancooten?style=for-the-badge&label=%E2%AD%90%20Stars" alt="Stars" /></a>
 
 </div>
 
